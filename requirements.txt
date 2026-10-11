@@ -1,0 +1,7 @@
+warcio
+beautifulsoup4
+lxml
+numpy
+faiss-cpu
+sentence-transformers
+tqdm
