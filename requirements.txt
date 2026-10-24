@@ -5,3 +5,7 @@ numpy
 faiss-cpu
 sentence-transformers
 tqdm
+python-dotenv
+google-genai
+langchain-text-splitters
+pylint
